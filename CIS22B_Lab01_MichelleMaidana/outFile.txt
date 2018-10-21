@@ -1,0 +1,274 @@
+all
+and
+and
+as
+beasts,
+beats
+beats
+beats
+birds
+birds
+bites
+bites
+bites
+bites
+cries
+cries
+devour
+devours
+devours
+down
+down
+down
+fl0wers
+fl0wers
+flowers
+flutters
+for
+gnaws
+gnaws
+goes
+grinds
+grinds
+grows
+grows
+grows
+grows
+had
+hard
+has
+has
+has
+here
+here
+high
+high
+high
+iron,
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+it
+it
+it
+it
+it
+it...
+it...
+it...
+kings,
+last
+last
+m0unt41ns
+m0unt41ns
+m0unt41ns
+meal
+mountain
+mountains
+mountains
+mountains
+mouthless
+mutters
+mutters
+never
+nobody
+nobody
+nobody
+nobody
+now
+riddle
+riddle
+riddle
+riddle
+riddle
+riddle
+riddle:
+riddle:
+roots
+roots
+roots
+roots
+ruins
+ruins
+ruins
+sees
+slays
+slays
+slays
+steel
+stones
+stones
+stones
+taller
+taller
+taller
+taller
+than
+than
+than
+than
+thing
+thing
+thing
+thing
+thing
+things
+this
+this
+time
+time
+time
+to
+toothless
+towns
+trees
+trees
+trees
+trees,
+two
+two
+two
+up
+up
+up
+up
+up
+up
+voiceless
+what
+what
+what
+what
+what
+wind
+wingless
+yet
+yet
+yet
+yet
+And
+And
+As
+As
+As
+Beasts
+Beasts
+Beasts
+Beasts
+Birds,
+Bites
+Flutters
+Gnaws
+Goes
+Goes
+Goes
+Grinds
+Hard
+Hard
+Here
+Is
+Is
+Is
+It
+It
+It
+It
+Kings
+Kings
+Meal
+Meal
+Mountain
+Mountain
+Mountains
+Mountains
+Mountains
+Mountains
+Mouthless
+Never
+Never
+Never
+Riddle
+S33S
+S33S
+S33S
+Steel
+Steel
+The
+This
+Time
+Time
+Time
+Time
+Time
+Time
+Time
+Time
+Toothless
+Towns
+Towns
+Trees
+Trees
+Trees
+Up
+Voiceless
+WIND
+What
+What
+What
+What
+What
+What
+Wind
+Wingless
+1ron
+1ron
+1wind
+2:
+4ll
+4ll
+4nd
+4nd
+4nd
+4nd
+4nd
+4the
+71M3
+71M3
+71M3
+
+Enter a word to search for or 'q' to quit:  all
+Word all found at position 0
+Enter a word to search for or 'q' to quit:  All
+Word not found!
+Enter a word to search for or 'q' to quit:  time
+Word time found at position 127
+Enter a word to search for or 'q' to quit:  4nd
+Word 4nd found at position 238
+Enter a word to search for or 'q' to quit:  hello
+Word not found!
+Enter a word to search for or 'q' to quit:  2
+Word not found!
+Enter a word to search for or 'q' to quit:  2:
+Word 2: found at position 234
+Enter a word to search for or 'q' to quit:  four
+Word not found!
+Enter a word to search for or 'q' to quit:  beasts
+Word not found!
+Enter a word to search for or 'q' to quit:  Beasts
+Word Beasts found at position 164
+Enter a word to search for or 'q' to quit:  Beast
+Word not found!
+Enter a word to search for or 'q' to quit:  Flower
+Word not found!
+Enter a word to search for or 'q' to quit:  flowers
+Word flowers found at position 24
+Enter a word to search for or 'q' to quit:  q
