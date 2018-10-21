@@ -36,8 +36,6 @@ Pseudocode:
 
 using namespace std;
 
-int main();
-
 // function prototypes
 void selectionSort(string[], int);
 int binarySearch(string[], int, string);
